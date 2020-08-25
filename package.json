@@ -1,0 +1,26 @@
+{
+  "name": "basicAuth",
+  "version": "1.0.0",
+  "description": "using bcrypt to create basic authentication",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/emmas4impact/basicAuth.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/emmas4impact/basicAuth/issues"
+  },
+  "homepage": "https://github.com/emmas4impact/basicAuth#readme",
+  "devDependencies": {
+    "nodemon": "^2.0.4"
+  },
+  "dependencies": {
+    "bcrypt": "^5.0.0"
+  }
+}
